@@ -15,4 +15,4 @@ This is a Streamlit web application that classifies images into one of the 10 CI
 ## **How to Use the App**
 
 The app is deployed on Streamlit Sharing. You can access it here:  
-👉 [CIFAR-10 Image Classification App](https://share.streamlit.io/your-username/your-repo-name/app.py)
+👉 [CIFAR-10 Image Classification App](https://imageclassificationcnn-mws93yl8n4ljycdqcpizka.streamlit.app/)
